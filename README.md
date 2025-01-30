@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Marcel, Co-founder and CEO of @waldzelltechnologies
+Welcome to @waldzelltechnologies. Professional services for everyone.
+  
 - 👀 I’m interested in Belgian wit beers and oligodendrocytes
 - 🌱 I’m currently learning how to cope with boredom
 - 💞️ I’m looking to collaborate on occupying a small danish island.
-- 📫 How to reach me: instagram.com/waldzell_enterprise
+- 📫 How to reach us: instagram.com/waldzell_enterprise
   
 
 <!---
